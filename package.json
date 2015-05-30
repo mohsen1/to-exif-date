@@ -4,6 +4,7 @@
   "description": "Convert JavaScript Date objects to EXIF date",
   "main": "index.js",
   "scripts": {
+    "pretest": "npm install",
     "test": "mocha"
   },
   "keywords": [
