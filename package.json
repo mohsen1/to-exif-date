@@ -2,6 +2,7 @@
   "name": "to-exif-date",
   "version": "1.0.0",
   "description": "Convert JavaScript Date objects to EXIF date",
+  "repository": "git@github.com:mohsen1/to-exif-date.git",
   "main": "index.js",
   "scripts": {
     "pretest": "npm install",
